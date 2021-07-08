@@ -37,3 +37,4 @@ function onDataReceive(array){
         document.querySelector('#result').appendChild(img)
     })
 }
+xzxz
